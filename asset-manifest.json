@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/to-do-alph/static/css/main.ad81ebd7.css",
+    "main.js": "/to-do-alph/static/js/main.2d08f04e.js",
+    "static/js/453.511b53b2.chunk.js": "/to-do-alph/static/js/453.511b53b2.chunk.js",
+    "index.html": "/to-do-alph/index.html",
+    "main.ad81ebd7.css.map": "/to-do-alph/static/css/main.ad81ebd7.css.map",
+    "main.2d08f04e.js.map": "/to-do-alph/static/js/main.2d08f04e.js.map",
+    "453.511b53b2.chunk.js.map": "/to-do-alph/static/js/453.511b53b2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ad81ebd7.css",
+    "static/js/main.2d08f04e.js"
+  ]
+}
